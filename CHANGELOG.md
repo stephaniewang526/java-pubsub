@@ -1,5 +1,13 @@
 # Changelog
 
+### [1.105.1](https://www.github.com/googleapis/java-pubsub/compare/v1.105.0...v1.105.1) (2020-04-22)
+
+
+### Dependencies
+
+* update dependency com.google.guava:guava-bom to v29 ([#146](https://www.github.com/googleapis/java-pubsub/issues/146)) ([16f1dbb](https://www.github.com/googleapis/java-pubsub/commit/16f1dbb3226af119cdbc234e8672608244d0a7fd))
+* update dependency io.grpc:grpc-bom to v1.29.0 ([#162](https://www.github.com/googleapis/java-pubsub/issues/162)) ([b883b45](https://www.github.com/googleapis/java-pubsub/commit/b883b452676eeb7bd5a178cd1bb357e965a26ee8))
+
 ## [1.105.0](https://www.github.com/googleapis/java-pubsub/compare/v1.104.1...v1.105.0) (2020-04-13)
 
 
